@@ -1,0 +1,17 @@
+{
+  "coreVersion": "0.1.0",
+  "sourceRevision": "0577b4d8326ad55b155770a8f255646ea6420afd",
+  "copyPolicy": "Exact byte-for-byte copies; no separate Core installation required.",
+  "files": [
+    {
+      "source": "skills/factr-core/SKILL.md",
+      "bundled": "skills/factr-test/references/core/contract.md",
+      "sha256": "171c1c29b1533a6c56fbb9d7232aac72a1f4d9b9a54c54f3ced924a0f038383f"
+    },
+    {
+      "source": "skills/factr-core/references/formal-verification.md",
+      "bundled": "skills/factr-test/references/core/references/formal-verification.md",
+      "sha256": "a6f6702634b23f115951f0c06628753b50e135d52010b31cef5d3aec21e1d7d5"
+    }
+  ]
+}

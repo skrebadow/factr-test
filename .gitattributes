@@ -1,0 +1,4 @@
+* text=auto eol=lf
+skills/factr-test/references/core/contract.md -text
+skills/factr-test/references/core/references/formal-verification.md -text
+assets/*.png binary

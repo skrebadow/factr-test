@@ -1,0 +1,4 @@
+interface:
+  display_name: "FACTR Test"
+  short_description: "Design tests, discover evidence, and render scenarios."
+  default_prompt: "Use $factr-test to design falsifiable tests for this behavior and identify material evidence or binding gaps."

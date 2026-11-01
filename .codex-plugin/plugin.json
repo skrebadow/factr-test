@@ -1,0 +1,22 @@
+{
+  "name": "factr-test",
+  "version": "0.1.0",
+  "description": "Design falsifiable tests, discover evidence and bindings, and render supported scenarios.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "FACTR Test",
+    "developerName": "Rebadow, Shauna-Kay (US) - MN",
+    "shortDescription": "Design tests, discover evidence, and render scenarios.",
+    "longDescription": "Independent behavioral testing using FACTR Core. Design observable cases, inspect relevant contracts and bindings when needed, and render Gherkin or supported automation while preserving uncertainty and evidence provenance.",
+    "category": "Productivity",
+    "capabilities": [],
+    "brandColor": "#351D4E",
+    "composerIcon": "./assets/factr-test-icon.png",
+    "logo": "./assets/factr-test-icon.png",
+    "defaultPrompt": [
+      "Use FACTR Test to design falsifiable tests from this description.",
+      "Use FACTR Test to discover the evidence and bindings these tests need.",
+      "Use FACTR Test to render this behavior as Gherkin and identify unbound steps."
+    ]
+  }
+}
